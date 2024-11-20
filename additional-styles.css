@@ -143,7 +143,7 @@ iframe {
 }
 
 @media only screen and (min-width: 1500px) {
-    body:not([data-name=conversations-id-v2]) .hl_topbar-tabs {
+    body:not([data-name=conversations-id-v2]) .hl_topbar-tabs, body:not([data-name=calendars-page-v2]) .hl_topbar-tabs {
         margin-top: 0 !important;
         height: 100vh !important;
     }
