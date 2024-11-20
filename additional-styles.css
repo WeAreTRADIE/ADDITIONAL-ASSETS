@@ -142,6 +142,15 @@ iframe {
 	margin-bottom: 14px !important;
 }
 
+.count {
+	background-color: transparent !important;
+	color: #141414 !important;
+}
+
+#app .sidebar-v2-location .app-container {
+    background: #ffffff !important;
+}
+
 @media only screen and (min-width: 1500px) {
     body:not([data-name=conversations-id-v2]) .hl_topbar-tabs, body:not([data-name=calendars-page-v2]) .hl_topbar-tabs, body:not([data-name=opportunities-list-v2]) .hl_topbar-tabs {
         margin-top: 0 !important;
