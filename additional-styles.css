@@ -151,9 +151,6 @@ iframe {
 .sidebar-v2-location .hl_header {
     box-shadow: none !important;
     top: 0 !important;
-    left: 0 !important;
-    right: -0;
-    width: 100% !important;
     background: #141414 !important;
 }
 
@@ -186,4 +183,14 @@ iframe {
 .sidebar-v2-location .hl_header #unread_count {
     background: #fde008 !important;
     color: #141414 !important;
+}
+
+#app .hl_topbar-tabs .card {
+    border: none !important;
+    box-shadow: none !important;
+}
+
+#app .hl_topbar-tabs .n-base-selection .n-base-selection__border,
+#app .hl_topbar-tabs .n-base-selection .n-base-selection__state-border {
+    display: none !important;
 }
