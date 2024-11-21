@@ -149,7 +149,7 @@ iframe {
     background: #141414 !important;
 }
 
-.sidebar-v2-location .hl_header .hl_header--controls a {
+.sidebar-v2-location .hl_header .hl_header--controls a, .sidebar-v2-location .hl_header .hl_header--dropdown>.hl_header--avatar .avatar>.avatar_img {
     background: #141414 !important;
     color: #fff !important;
 }
