@@ -157,14 +157,21 @@ iframe {
     background: #141414 !important;
 }
 
+.sidebar-v2-location .hl_header .topmenu-nav {
+    background: #141414 !important;
+}
+
 .sidebar-v2-location .hl_header .hl_header--controls a,
 .sidebar-v2-location .hl_header .hl_header--dropdown>.hl_header--avatar .avatar>.avatar_img,
-.sidebar-v2-location .hl_header a#hl_header--help-icon i,
-.sidebar-v2-location .hl_header #hl_header--help-icon.hl_header--copy-link {
+.sidebar-v2-location .hl_header a#hl_header--help-icon i {
     background: #141414 !important;
     color: #fff !important;
     border: none !important;
     box-shadow: none !important;
+}
+
+#hl_header--help-icon.hl_header--copy-link {
+    background: #141414 !important;
 }
 
 .sidebar-v2-location .hl_header #hl_header--help-icon.hl_header--copy-link .fa.fa-question:before {
