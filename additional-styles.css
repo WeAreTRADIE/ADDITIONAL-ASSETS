@@ -153,3 +153,12 @@ iframe {
     background: #141414 !important;
     color: #fff !important;
 }
+
+.sidebar-v2-location .hl_header .hl_header--controls a i {
+    color: #fff !important;
+}
+
+.sidebar-v2-location .hl_header #unread_count {
+    background: #fde008 !important;
+    color: #141414 !important;
+}
