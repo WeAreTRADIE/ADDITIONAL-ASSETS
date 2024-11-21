@@ -56,24 +56,6 @@
 	border: 0 !important;
 }
 
-.sidebar-v2-location .hl_header {
-	display: none !important;
-}
-
-.sidebar-v2-location .hl_wrapper {
-	padding-top: 0 !important;
-	width: auto !important;
-}
-
-.h-screen {
-	height: 100vh;
-	padding-top: 0 !important;
-}
-
-.sidebar-v2-location .hl_topbar-tabs {
-	padding-top: 90px;
-}
-
 #app .sidebar-v2-location #sidebar-v2 .hl_nav-header {
 	max-height: 100vh !important;
         width: 100% !important;
