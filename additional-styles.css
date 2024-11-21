@@ -149,7 +149,7 @@ iframe {
     background: #141414 !important;
 }
 
-.sidebar-v2-location .hl_header #canny_logs-toggle {
+.sidebar-v2-location .hl_header .hl_header--controls a {
     background: #141414 !important;
     color: #fff !important;
 }
