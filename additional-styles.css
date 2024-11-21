@@ -139,3 +139,17 @@ iframe {
         height: 100vh !important;
     }
 }
+
+.sidebar-v2-location .hl_header {
+    box-shadow: none !important;
+    top: 0 !important;
+    left: 0 !important;
+    right: -0;
+    width: 100% !important;
+    background: #141414 !important;
+}
+
+.sidebar-v2-location .hl_header #canny_logs-toggle {
+    background: #141414 !important;
+    color: #fff !important;
+}
